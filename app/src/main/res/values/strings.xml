@@ -1,5 +1,82 @@
 <resources>
-    <string name="app_name">Brendan\'s App</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    >
+    <string name="app_name">TeamLinkt</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="term_text">By creating an account, you agree to \nour <u>terms &amp; conditions.</u></string>
+    <string name="sign_in_text"><u>Sign In Now!</u></string>
+
+    <string name="team_str">Team</string>
+    <string name="schedule_str">Schedule</string>
+    <string name="connect_str">Connect</string>
+    <string name="menu_str">Menu</string>
+
+    <string name="team_str_title">Team</string>
+    <string name="welcome_str">Welcome to TeamLinkt</string>
+    <string name="guide_str">What would you like to do?</string>
+    <string name="add_team_str_title">New Team</string>
+    <string name="edit_team_str_title">Edit Team</string>
+    <string name="view_team_str_title">View Team</string>
+    <string name="add_str">Add</string>
+    <string name="save_str">Save</string>
+
+    <string name="add_contact_str_title">Add Contact</string>
+    <string name="edit_contact_str_title">Edit Contact</string>
+    <string name="view_contact_str_title">Contact</string>
+
+    <string name="team_setting_str_title">Team Options</string>
+    <string name="add_player_str_title">Add Player</string>
+
+    <string name="edit_contact_instruction_text">Edit your name &amp; email address in you <u>profile</u> section</string>
+
+    <string name="schedule_str_title">Schedule</string>
+
+
+    <!--production-->
+    <string name="api_key">AIzaSyCB_MPZ8Wn91-VkomVi-AQGiYBoFOqPv2s</string>
+    <!--development-->
+    <!--<string name="api_key">AIzaSyDg3pz4kGK3vkBCkzAN9hVn7evGddpruMg</string>-->
+
+    <string name="add_message_subject">Subject</string>
+    <string name="add_message_text">Message</string>
+    <string name="add_message_notify">Notify Team</string>
+    <string name="add_message_pin">Pin to Top</string>
+    <string name="reply_message_notify_warning">If off, we\'ll notify the Original Sender Only</string>
+
+    <string name="list_message_count">4</string>
+    <string name="june_8_2017_1_27pm_linda_lackey">June 8, 2017 \- 1:27pm \- Linda Lackey</string>
+    <string name="waiver_form">Waiver Form</string>
+    <string name="attachment">attachment</string>
+    <string name="pin">pin</string>
+    <string name="replies">Replies</string>
+    <string name="message_view">Don\'t forget to complete the waiver forms before our first game. I\'ve attached them here, let me know if you have any questions and we\'ll see you soon!</string>
+    <string name="message_reply">Hi Linda,We won\'t be there on Friday, we\'ll return the form on Monday. Thanks Again!</string>
+    <string name="list_message_date" />
+    <string name="list_message_subject" />
+
+    <string name="attachment_1"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_2"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_3"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_4"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_5"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_6"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_7"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_8"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_9"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="attachment_10"><a href=">Waiver.pdf">Waiver.pdf</a></string>
+    <string name="date">Date</string>
+    <string name="game">Game</string>
+    <string name="home_away">Home/Away</string>
+    <string name="location">Location</string>
+    <string name="notes">Notes</string>
+    <string name="opponent">Opponent</string>
+    <string name="time_tbd">Time TBD</string>
+    <string name="time">Time</string>
+    <string name="uniform">Uniform</string>
+    <string name="add_event">Add Event</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+    <string name="hello_world">Hello World</string>
+    <string name="textview">TextView</string>
+    <string name="title">Title</string>
 </resources>
