@@ -136,18 +136,6 @@
                 android:textColorHint="@color/texthint"
                 android:textSize="@dimen/normal_text_size" />
 
-            <ImageView
-                android:id="@+id/iv_date_arrow"
-                android:layout_width="20dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginRight="@dimen/margin_right"
-                android:layout_marginEnd="@dimen/margin_right"
-                android:contentDescription="@null"
-                android:scaleType="fitCenter"
-                android:src="@mipmap/arrow_down"
-                tools:ignore="RtlHardcoded" />
-
         </LinearLayout>
 
 
@@ -196,19 +184,6 @@
                     android:textColorHint="@color/texthint"
                     android:textSize="@dimen/normal_text_size"
                     tools:ignore="NestedWeights" />
-
-
-                <ImageView
-                    android:id="@+id/iv_time_arrow"
-                    android:layout_width="20dp"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:layout_marginRight="@dimen/margin_right"
-                    android:layout_marginEnd="@dimen/margin_right"
-                    android:contentDescription="@null"
-                    android:scaleType="fitCenter"
-                    android:src="@mipmap/arrow_down"
-                    tools:ignore="RtlHardcoded" />
 
                 <ImageView
                     android:layout_width="1dp"

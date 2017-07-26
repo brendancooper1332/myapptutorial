@@ -8,6 +8,21 @@
         <item name="colorAccent">@color/coloraccent</item>
     </style>
 
+    <style name="MyDatePickerStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/colorprimary</item>
+        <item name="@android:headerBackground">@color/colorprimary</item>
+        <item name="@android:calendarTextColor">@color/colorprimarydark</item>
+        <item name="@android:dayOfWeekBackground">@color/colorprimarydark</item>
+        <item name="@android:yearListSelectorColor">@color/colorprimary</item>
+        <item name="@android:datePickerMode">calendar</item>
+    </style>
+
+    <style name="MyTimePickerStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/colorprimary</item>
+        <item name="@android:headerBackground">@color/colorprimary</item>
+        <item name="@android:timePickerMode">spinner</item>
+    </style>
+
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
